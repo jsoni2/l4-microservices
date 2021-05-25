@@ -1,4 +1,4 @@
-package com.udacity.dogs;
+package com.udacity.dog;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

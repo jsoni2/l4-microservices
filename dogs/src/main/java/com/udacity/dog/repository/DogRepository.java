@@ -1,6 +1,6 @@
-package com.udacity.dogs.repository;
+package com.udacity.dog.repository;
 
-import com.udacity.dogs.entity.Dog;
+import com.udacity.dog.entity.Dog;
 import org.springframework.data.repository.CrudRepository;
 
 /**

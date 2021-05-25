@@ -1,4 +1,4 @@
-package com.udacity.dogs.entity;
+package com.udacity.dog.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
