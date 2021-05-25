@@ -1,4 +1,4 @@
-package com.udacity.microservices.entity;
+package com.udacity.item.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

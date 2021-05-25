@@ -1,4 +1,4 @@
-package com.udacity.microservices;
+package com.udacity.item;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
